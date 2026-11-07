@@ -99,3 +99,7 @@ cablecheck.py        Reads ports and decodes cable chips (CLI + JSON for the app
 app/CableCheck.swift SwiftUI window
 app/build.sh         Builds "Cable Check.app" with the script bundled inside
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
